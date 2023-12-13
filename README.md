@@ -20,8 +20,8 @@
 
 ## Librerias
 
-- [Librerias Admin](https://gitlab.catedras.linti.unlp.edu.ar/proyecto2023/proyectos/grupo15/-/blob/main/admin/README.md?ref_type=heads)
-- [Librerias Portal](https://gitlab.catedras.linti.unlp.edu.ar/proyecto2023/proyectos/grupo15/-/blob/main/portal/README.md?ref_type=heads)
+- [Librerias Admin](admin/README.md)
+- [Librerias Portal](portal/README.md)
 
 ## Credenciales de prueba
 
