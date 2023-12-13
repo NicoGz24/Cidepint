@@ -1,12 +1,3 @@
-# Grupo 15
-
-- Integrantes:  Ariana Marchi, Catalina Gaitán, Nicolas Gonzalez, Santiago Lizondo
-- Ayudante a cargo: Facundo Diaz
-
-## URLs
-
-- URL de aplicación de administración: [Link Admin](https://admin-grupo15.proyecto2023.linti.unlp.edu.ar/)
-- URL del portal público: [Link Publico](https://grupo15.proyecto2023.linti.unlp.edu.ar/)
 
 ## Datos de la aplicación de admin
 - Lenguajes utilizados: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
