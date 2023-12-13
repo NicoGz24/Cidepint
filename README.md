@@ -16,7 +16,7 @@
 ## Instalación
 
 - [Instalacion Admin](admin/README.md)
-- [Instalacion Portal](https://gitlab.catedras.linti.unlp.edu.ar/proyecto2023/proyectos/grupo15/-/blob/main/portal/README.md?ref_type=heads)
+- [Instalacion Portal](portal/README.md)
 
 ## Librerias
 
