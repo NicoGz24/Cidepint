@@ -1,7 +1,4 @@
-# Grupo 15 Portal publico
-
-- Integrantes:  Ariana Marchi, Catalina Gaitán, Nicolas Gonzalez, Santiago Lizondo
-- Ayudante a cargo: Facundo Diaz
+# Portal publico - Frontend
 
 ## Datos de la aplicación del portal
 - Lenguajes utilizados: ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
